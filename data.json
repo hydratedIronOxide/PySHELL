@@ -1,0 +1,8 @@
+{
+  "qp": {
+    "C": "C:\\",
+    "User": "%USERPROFILE%",
+    "System": "C:\\Windows\\System32",
+    "AppData": "%APPDATA%"
+    }
+}
